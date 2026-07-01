@@ -22,11 +22,22 @@ This repository contains a reproducible pipeline for Topological Data Analysis (
 ## Contributing
 See `CONTRIBUTING.md` for guidelines on bug reports, feature requests, and pull requests.
 
+## Author Affiliations
+- Author affiliation(s): <Postdoctoral Fellow Research>
+- Institution/location: <Shirley Ryan AbilityLab>
+
 ## Citation
 If you use this codebase, please cite:
 - Our manuscript (DOI: <to be added>)
 - KeplerMapper: https://doi.org/10.21105/joss.01315
 - Any primary datasets as required by their data-sharing agreements.
+
+## Metadata Availability
+Some manuscript metadata is not provided in this code repository.
+
+To request missing metadata, please contact the corresponding author:
+- Corresponding author: <Arun Jayaraman>
+- Email: <a-jayaraman@northwestern.edu>
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.

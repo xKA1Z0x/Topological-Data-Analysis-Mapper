@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Identifying Unique Gait Phenotypes Across Neuromotor Conditions Using Wearable Inertial Sensors and Topological Data Analysis"
+type: software
+license: MIT
+version: 0.1.0
+date-released: 2026-07-01
+url: "https://github.com/xKA1Z0x/Topological-Data-Analysis-Mapper"
+authors:
+  - family-names: ["Daneshgar", "Campagnini", "Macaluso", "O'Brien", "Lieber", "Jayaraman"]
+    given-names: ["Sajjad", "Silvia", "Rebecca", "Megan K.", "Richard L.", "Arun"]
+    affiliation: ["Max Nader Lab for Rehabilitation Technologies and Outcome Research, Shirley Ryan AbilityLab, Chicago, IL, USA", "Department of Physical Medicine & Rehabilitation, Feinberg School of Medicine, Northwestern University, Chicago, IL, USA", "Edward Hines VA Medical Center, Maywood, IL, USA"]
+keywords:
+  - topological data analysis
+  - mapper
+  - TDA
+  - gait phenotype
+  - rehabilitation
+  - wearable sensors
